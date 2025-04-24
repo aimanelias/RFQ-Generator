@@ -1,0 +1,12 @@
+{
+  "pic_name": "{{pic_name}}",
+  "department": "{{department}}",
+  "email": "{{email}}",
+  "contact": "{{contact}}",
+  "rfq_category": "{{rfq_category}}",
+  "rfq_ref_number": "{{rfq_ref_number}}",
+  "rfq_issue_date": "{{rfq_issue_date}}",
+  "rfq_closing_date": "{{rfq_closing_date}}",
+  "date_received": "{{date_received}}"
+}
+
